@@ -1,5 +1,5 @@
 Página de Cadastro Moderna
-Desenvolvido por: BIYAMIN https://github.com/biyamin-js
+Desenvolvido por: Zak Dev https://github.com/zaak-dev
 
 Sobre o Projeto
 Uma página de cadastro moderna e tecnológica desenvolvida para demonstrar habilidades em desenvolvimento front-end. Este projeto foi criado especialmente para mostrar a criação de interfaces web elegantes.
@@ -46,3 +46,4 @@ Verifica campos obrigatórios
 Valida formato de e-mail
 Confirma se senhas coincidem
 Verifica aceitação dos termos
+
